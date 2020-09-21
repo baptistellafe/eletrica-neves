@@ -1,0 +1,7 @@
+{
+  "name": "eletrica-neves",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
